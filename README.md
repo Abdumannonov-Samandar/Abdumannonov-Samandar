@@ -1,4 +1,4 @@
-# Samandar Abdumanannov
+# Samandar Abdumannonov
 
 ## About me
 Frontend Engineer at ShahNur Software: I am responsible for creating user-friendly and intuitive web interfaces using modern frontend technologies. I have advanced skills in HTML, CSS, JavaScript, as well as libraries and frameworks such as React and Next. I work closely with backend developers, UX/UI designers, and project stakeholders to improve user experience, improve website performance, and ensure responsive design. My focus is on site speed optimization, responsive design and accessibility improvements.
@@ -13,7 +13,6 @@ Frontend Engineer at ShahNur Software: I am responsible for creating user-friend
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Redux](https://skillicons.dev/icons?i=redux)
 
 
 ### Tools
@@ -24,8 +23,23 @@ Frontend Engineer at ShahNur Software: I am responsible for creating user-friend
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
-## Contact
 
+
+### Frameworks
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Material UI](https://skillicons.dev/icons?i=material-ui)
+![Chakra UI](https://skillicons.dev/icons?i=chakra-ui)
+![Ant Design](https://skillicons.dev/icons?i=ant-design)
+![DaisyUI](https://skillicons.dev/icons?i=daisyui)
+
+
+### Languages
+![Uzbek](https://skillicons.dev/icons?i=uzbek)
+![English](https://skillicons.dev/icons?i=english)
+
+
+
+## Contact
 - **Email**: abdumanannov.interview@gmail.com
 - **LinkedIn**: [Abdumannonov](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)
 - **GitHub**: [Abdumanonov-Samandar](https://github.com/Abdumannonov-Samandar)
