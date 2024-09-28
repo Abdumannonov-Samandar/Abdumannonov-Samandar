@@ -24,21 +24,6 @@ Frontend Engineer at ShahNur Software: I am responsible for creating user-friend
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 
-
-### Frameworks
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Material UI](https://skillicons.dev/icons?i=material-ui)
-![Chakra UI](https://skillicons.dev/icons?i=chakra-ui)
-![Ant Design](https://skillicons.dev/icons?i=ant-design)
-![DaisyUI](https://skillicons.dev/icons?i=daisyui)
-
-
-### Languages
-![Uzbek](https://skillicons.dev/icons?i=uzbek)
-![English](https://skillicons.dev/icons?i=english)
-
-
-
 ## Contact
 - **Email**: abdumanannov.interview@gmail.com
 - **LinkedIn**: [Abdumannonov](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)
