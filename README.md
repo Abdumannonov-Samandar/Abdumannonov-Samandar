@@ -26,8 +26,11 @@ Frontend Engineer at ShahNur Software: I am responsible for creating user-friend
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 
-[![](https://visitcount.itsvg.in/api?id=Abdumannonov1&label=111777&color=10&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Samandardh&label=Profile%20Trad&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Samandar22&label=Profile%20Code&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Samandar1&label=Profile%20Grow&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Abdumannonov11&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 ## Contact
