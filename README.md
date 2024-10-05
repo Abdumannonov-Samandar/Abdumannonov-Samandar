@@ -36,8 +36,6 @@ Frontend Engineer at ShahNur Software: I am responsible for creating user-friend
 ## Contact
 - **Email**: abdumanannov.interview@gmail.com
 - **LinkedIn**: [Abdumannonov](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)
-- **GitHub**: [Abdumanonov-Samandar](https://github.com/Abdumannonov-Samandar)
 - **Telegram**: [Abdumannonov](https://t.me/Abdumannonov571_60)
 - **LeetCode**: [Abdumannonov](https://leetcode.com/Abdumannonov1/)
-- **Phone**: +998 93 163 38 39
 
