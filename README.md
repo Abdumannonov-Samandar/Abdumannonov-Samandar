@@ -32,6 +32,25 @@ Frontend Engineer at ShahNur Software: I am responsible for creating user-friend
 [![](https://visitcount.itsvg.in/api?id=Samandar1&label=Profile%20Grow&icon=1&pretty=true)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=Abdumannonov11&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+## Projects
+
+### [BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)
+An interactive **BMI Calculator** that helps users calculate their Body Mass Index. It includes a responsive user interface built with React and custom hooks for seamless interaction.
+
+- **Technologies**: React, Next.js
+- **Features**: Real-time calculation, user-friendly sliders, responsive design
+
+### [Weather Forecast](https://github.com/Abdumannonov-Samandar/weather-forecast)
+A modern **Weather Forecast Application** that provides real-time weather updates and forecasts for any city. Built with React and OpenWeatherMap API.
+
+- **Technologies**: Next.js, OpenWeatherMap API
+- **Features**: City search, 7-day forecast, dynamic background based on weather condition
+
+### [Portfolio](https://github.com/Abdumannonov-Samandar/portfolio)
+A beautifully designed **Portfolio Website** to showcase my projects and experience. Created using Next.js for performance optimization and smooth navigation.
+
+- **Technologies**: Next.js, Tailwind CSS, Markdown
+- **Features**: Fast loading, SEO-friendly, fully responsive
 
 ## Contact
 - **Email**: abdumanannov.interview@gmail.com
