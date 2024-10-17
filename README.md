@@ -46,7 +46,7 @@ A modern **Weather Forecast Application** that provides real-time weather update
 - **Technologies**: Next.js, OpenWeatherMap API
 - **Features**: City search, 7-day forecast, dynamic background based on weather condition
 
-### [Portfolio](https://github.com/Abdumannonov-Samandar/portfolio)
+### [Portfolio]([https://github.com/Abdumannonov-Samandar/portfolio](https://66df78a52c9b4fa709b7dcf4--portfoila.netlify.app)
 A beautifully designed **Portfolio Website** to showcase my projects and experience. Created using Next.js for performance optimization and smooth navigation.
 
 - **Technologies**: Next.js, Tailwind CSS, Markdown
