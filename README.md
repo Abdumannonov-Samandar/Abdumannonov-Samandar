@@ -40,7 +40,7 @@ An interactive **BMI Calculator** that helps users calculate their Body Mass Ind
 - **Technologies**: React, Next.js
 - **Features**: Real-time calculation, user-friendly sliders, responsive design
 
-### [Weather Forecast](https://github.com/Abdumannonov-Samandar/weather-forecast)
+### [Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)
 A modern **Weather Forecast Application** that provides real-time weather updates and forecasts for any city. Built with React and OpenWeatherMap API.
 
 - **Technologies**: Next.js, OpenWeatherMap API
