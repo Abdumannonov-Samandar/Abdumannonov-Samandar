@@ -5,8 +5,7 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 
 ## Projects
 
-### [BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)
-### [Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)
+### [BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator) ### [Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)
 ### [Portfolio](https://66df78a52c9b4fa709b7dcf4--portfoila.netlify.app)
 
 
