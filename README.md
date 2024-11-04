@@ -33,11 +33,6 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 ## Projects
 
 ### [BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)
-An interactive **BMI Calculator** that helps users calculate their Body Mass Index. It includes a responsive user interface built with React and custom hooks for seamless interaction.
-
-- **Technologies**: React, Next.js
-- **Features**: Real-time calculation, user-friendly sliders, responsive design
-
 ### [Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)
 A modern **Weather Forecast Application** that provides real-time weather updates and forecasts for any city. Built with React and OpenWeatherMap API.
 
