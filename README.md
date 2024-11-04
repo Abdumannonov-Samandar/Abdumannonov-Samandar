@@ -38,7 +38,7 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 
 ## Contact
 - **Email**: abdumanannov.interview@gmail.com
-- **LinkedIn**: [Abdumannonov](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)
+- **Linkedin**: [Abdumannonov](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)
 - **Telegram**: [Abdumannonov](https://t.me/Abdumannonov571_60)
 - **LeetCode**: [Abdumannonov](https://leetcode.com/Abdumannonov1/)
 
