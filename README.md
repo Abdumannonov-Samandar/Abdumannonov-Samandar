@@ -35,10 +35,6 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 ### [BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)
 ### [Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)
 ### [Portfolio](https://66df78a52c9b4fa709b7dcf4--portfoila.netlify.app)
-A beautifully designed **Portfolio Website** to showcase my projects and experience. Created using Next.js for performance optimization and smooth navigation.
-
-- **Technologies**: Next.js, Tailwind CSS, Markdown
-- **Features**: Fast loading, SEO-friendly, fully responsive
 
 ## Contact
 - **Email**: abdumanannov.interview@gmail.com
