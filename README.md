@@ -15,7 +15,6 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 
 
-
 ## Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
