@@ -34,11 +34,6 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 
 ### [BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)
 ### [Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)
-A modern **Weather Forecast Application** that provides real-time weather updates and forecasts for any city. Built with React and OpenWeatherMap API.
-
-- **Technologies**: Next.js, OpenWeatherMap API
-- **Features**: City search, 7-day forecast, dynamic background based on weather condition
-
 ### [Portfolio](https://66df78a52c9b4fa709b7dcf4--portfoila.netlify.app)
 A beautifully designed **Portfolio Website** to showcase my projects and experience. Created using Next.js for performance optimization and smooth navigation.
 
