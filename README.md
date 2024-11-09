@@ -20,18 +20,12 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-
-## Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
-
-## Certificates
-### [Web Development](https://www.sololearn.com/certificates/CC-OF4JNWVO)
 
 
 
@@ -47,3 +41,6 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 - **Telegram**: [Abdumannonov](https://t.me/Abdumannonov571_60)
 - **LeetCode**: [Abdumannonov](https://leetcode.com/Abdumannonov1/)
 
+
+## Certificates
+### [Web Development](https://www.sololearn.com/certificates/CC-OF4JNWVO)
