@@ -30,6 +30,8 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 ![Netlify](https://skillicons.dev/icons?i=netlify)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
+## Certificates
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Samandardh&label=Profile%20Trad&color=0&icon=8&pretty=true)](https://visitcount.itsvg.in)
