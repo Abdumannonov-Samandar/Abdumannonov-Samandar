@@ -31,6 +31,7 @@ Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive w
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 
 ## Certificates
+![Web Development](https://www.sololearn.com/certificates/CC-OF4JNWVO)
 
 
 
