@@ -1,6 +1,7 @@
 # Samandar Abdumannonov
 
 ## About me
+
 Frontend Engineer at ShahNur Software: I excel in building seamless, intuitive web interfaces using cutting-edge frontend technologies, including HTML, CSS, JavaScript, React, and Next.js. With a strong focus on delivering optimized, high-performance websites, I work closely with backend developers, UX/UI designers, and project stakeholders to create responsive, accessible, and user-centered digital experiences. My expertise lies in enhancing site speed, improving responsiveness, and ensuring web accessibility, all while maintaining a polished and efficient user experience...
 
 ## Projects
