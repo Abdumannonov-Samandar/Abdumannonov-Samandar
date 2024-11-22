@@ -7,20 +7,22 @@ I specialize in creating **seamless**, **responsive**, and **user-friendly** web
 
 ## 🛠️ Tech Stack
 
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)  
-![Sass](https://skillicons.dev/icons?i=sass)  
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![React](https://skillicons.dev/icons?i=react)  
-![Next.js](https://skillicons.dev/icons?i=nextjs)  
-![Git](https://skillicons.dev/icons?i=git)  
-![GitHub](https://skillicons.dev/icons?i=github)  
-![VSCode](https://skillicons.dev/icons?i=vscode)  
-![Figma](https://skillicons.dev/icons?i=figma)  
-![Netlify](https://skillicons.dev/icons?i=netlify)  
-![Vercel](https://skillicons.dev/icons?i=vercel)  
+<div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+</div>
 
 ---
 
