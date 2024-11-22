@@ -41,7 +41,7 @@ Here are some of my favorite projects:
 
 ## 🛠️ Tech Stack  
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="50" />
@@ -79,7 +79,7 @@ Here are some of my favorite projects:
 
 ## 📬 Let's Connect
 
-<p align="center">
+<p>
   <a href="mailto:abdumanannov.interview@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -98,6 +98,9 @@ Here are some of my favorite projects:
 
 ## 🌟 Visitor Count  
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Abdumannonov-Samandar&label=Profile%20Views&color=10&icon=2&pretty=true" alt="Visitor Count" />
-</p>
+<div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+  <img src="https://visitcount.itsvg.in/api?id=Samandardh&label=Profile%20Trad&color=0&icon=8&pretty=true" alt="Profile Trad" />
+  <img src="https://visitcount.itsvg.in/api?id=Samandar22&label=Profile%20Code&color=10&icon=2&pretty=true" alt="Profile Code" />
+  <img src="https://visitcount.itsvg.in/api?id=Samandar1&label=Profile%20Grow&icon=1&pretty=true" alt="Profile Grow" />
+  <img src="https://visitcount.itsvg.in/api?id=Abdumannonov11&label=Profile%20Views&color=9&icon=5&pretty=true" alt="Profile Views" />
+</div>
