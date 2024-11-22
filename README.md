@@ -1,79 +1,103 @@
-# 👨‍💻 Samandar Abdumannonov  
+<h1 align="center">👋 Hi, I'm Samandar Abdumannonov</h1>
 
-**Frontend Engineer** at [ShahNur Software](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)  
-I specialize in creating **seamless**, **responsive**, and **user-friendly** web applications using modern frontend technologies like **React**, **Next.js**, and **TailwindCSS**. My focus is on delivering **optimized** and **accessible** digital experiences while collaborating closely with UX/UI designers, backend developers, and project stakeholders.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7567C&center=true&width=435&lines=Frontend+Engineer;Passionate+Problem+Solver;Crafting+User-Friendly+Web+Apps" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-<div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
-  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
+I'm a **Frontend Engineer** at [ShahNur Software](https://www.linkedin.com/in/samandar-abdumannonov-559842322/). I specialize in:  
+- Developing **responsive**, **accessible**, and **high-performance** web applications.  
+- Creating elegant **UI/UX experiences** using **React**, **Next.js**, and **TailwindCSS**.  
+- Collaborating with designers, developers, and stakeholders to bring ideas to life.  
+
+I aim to deliver seamless digital experiences that **delight users** and exceed expectations. 💡
+
+---
+
+## 🌟 Featured Projects
+
+Here are some of my favorite projects:  
+
+### 🧮 **[BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)**  
+> **Tech Stack:** HTML, CSS, JavaScript  
+> Calculate your BMI with an interactive, minimalist design.
+
+### ☁️ **[Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)**  
+> **Tech Stack:** React, API Integration, TailwindCSS  
+> Get real-time weather updates with an intuitive interface.
+
+### 🍔 **[Meals App](https://66df7e46f4514fb204783faf--vocal-belekoy-e35998.netlify.app/)**  
+> **Tech Stack:** React, API, Firebase  
+> A feature-rich food ordering app with search and filter options.
+
+### 🎥 **[MoviesTMD](https://66c2a9984e54892a5f8ced29--leafy-medovik-30f11f.netlify.app/)**  
+> **Tech Stack:** React, API Integration, CSS  
+> Discover trending movies with smooth navigation and filters.
+
+---
+
+## 🛠️ Tech Stack  
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="50" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdumannonov-Samandar&show_icons=true&theme=radical" alt="Samandar's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdumannonov-Samandar&theme=radical" alt="Samandar's Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdumannonov-Samandar&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdumannonov-Samandar&theme=radical" alt="Streak Stats" width="49%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdumannonov-Samandar&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🎓 Certifications
 
-### 🎓 **[Web Development Certification](https://www.sololearn.com/certificates/CC-OF4JNWVO)**  
-**Issued by:** SoloLearn  
-Certified in **HTML**, **CSS**, **JavaScript**, and responsive design principles.
-
----
-
-## 🌟 Featured Projects  
-
-### [🧮 BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)  
-An interactive tool to calculate **Body Mass Index** with real-time updates and a clean UI.
-
-### [☁️ Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)  
-Stay informed with live weather updates in a modern and responsive app.  
-
-### [🍔 Meals](https://66df7e46f4514fb204783faf--vocal-belekoy-e35998.netlify.app/)  
-A food ordering platform showcasing my skills in **API integration** and interactive design.  
-
-### [📽️ MoviesTMD](https://66c2a9984e54892a5f8ced29--leafy-medovik-30f11f.netlify.app/)  
-Discover movies through a sleek app leveraging **dynamic filtering** and external API data.
+- [**Web Development Certification**](https://www.sololearn.com/certificates/CC-OF4JNWVO) by SoloLearn.  
+- Hands-on expertise in HTML, CSS, JavaScript, and responsive design.
 
 ---
 
-## 📬 Let's Connect  
+## 📬 Let's Connect
 
-- **Email:** [abdumanannov.interview@gmail.com](mailto:abdumanannov.interview@gmail.com)  
-- **LinkedIn:** [Samandar Abdumannonov](https://www.linkedin.com/in/samandar-abdumannonov-559842322/)  
-- **Telegram:** [@Abdumannonov](https://t.me/Abdumannonov571_60)  
-- **LeetCode:** [Samandar's Profile](https://leetcode.com/Abdumannonov1/)  
+<p align="center">
+  <a href="mailto:abdumanannov.interview@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/samandar-abdumannonov-559842322/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/Abdumannonov571_60" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://leetcode.com/Abdumannonov1/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Visitor Count  
+## 🌟 Visitor Count  
 
-<div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-  <img src="https://visitcount.itsvg.in/api?id=Samandardh&label=Profile%20Trad&color=0&icon=8&pretty=true" alt="Profile Trad" />
-  <img src="https://visitcount.itsvg.in/api?id=Samandar22&label=Profile%20Code&color=10&icon=2&pretty=true" alt="Profile Code" />
-  <img src="https://visitcount.itsvg.in/api?id=Samandar1&label=Profile%20Grow&icon=1&pretty=true" alt="Profile Grow" />
-  <img src="https://visitcount.itsvg.in/api?id=Abdumannonov11&label=Profile%20Views&color=9&icon=5&pretty=true" alt="Profile Views" />
-</div>
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Abdumannonov-Samandar&label=Profile%20Views&color=10&icon=2&pretty=true" alt="Visitor Count" />
+</p>
