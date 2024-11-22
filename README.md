@@ -70,4 +70,10 @@ Discover movies through a sleek app leveraging **dynamic filtering** and externa
 
 ## 🚀 Visitor Count  
 
-![Profile Visits](https://visitcount.itsvg.in/api?id=Abdumannonov-Samandar&label=Profile%20Views&color=10&icon=0&pretty=true)  
+<div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+  <img src="https://visitcount.itsvg.in/api?id=Samandardh&label=Profile%20Trad&color=0&icon=8&pretty=true" alt="Profile Trad" />
+  <img src="https://visitcount.itsvg.in/api?id=Samandar22&label=Profile%20Code&color=10&icon=2&pretty=true" alt="Profile Code" />
+  <img src="https://visitcount.itsvg.in/api?id=Samandar1&label=Profile%20Grow&icon=1&pretty=true" alt="Profile Grow" />
+  <img src="https://visitcount.itsvg.in/api?id=Abdumannonov11&label=Profile%20Views&color=9&icon=5&pretty=true" alt="Profile Views" />
+</div>
+
