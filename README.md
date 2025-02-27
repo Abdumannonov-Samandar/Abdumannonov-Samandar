@@ -33,7 +33,7 @@ Here are some of my favorite projects:
 > **Tech Stack:** React, API, Firebase  
 > A feature-rich food ordering app with search and filter options.
 
-### 🎥 **[MoviesTMD](https://66c2a9984e54892a5f8ced29--leafy-medovik-30f11f.netlify.app/)**  
+### 🎥 **[MoviesTMD](https://movie-tmd.vercel.app/)**  
 > **Tech Stack:** React, API Integration, CSS  
 > Discover trending movies with smooth navigation and filters.
 
