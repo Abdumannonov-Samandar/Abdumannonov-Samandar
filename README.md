@@ -37,6 +37,10 @@ Here are some of my favorite projects:
 > **Tech Stack:** React, API Integration, CSS  
 > Discover trending movies with smooth navigation and filters.
 
+### 🎭 **[Currency Exchange](https://currency-exchange-lilac.vercel.app/)**
+> **Tech Stack:** Next.js, API Integration, Tailwind CSS >
+> Real-time currency conversion with a sleek UI and responsive design.
+
 ---
 
 ## 🛠️ Tech Stack  
