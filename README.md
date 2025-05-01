@@ -21,6 +21,10 @@ I aim to deliver seamless digital experiences that **delight users** and exceed 
 
 Here are some of my favorite projects:  
 
+### 🍯 **[Honey Landing Page](https://honey-tawny-psi.vercel.app/)**
+> **Tech Stack:** Next.js, TailwindCSS
+> A modern, aesthetically pleasing landing page for honey lovers. This is a frontend-only demo without backend integration.
+
 ### 🧮 **[BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)**  
 > **Tech Stack:** HTML, CSS, JavaScript  
 > Calculate your BMI with an interactive, minimalist design.
