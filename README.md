@@ -17,8 +17,6 @@ I aim to deliver seamless digital experiences that **delight users** and exceed 
 
 ---
 
----
-
 ## 🌟 Featured Projects
 
 Here are some of my favorite projects:  
