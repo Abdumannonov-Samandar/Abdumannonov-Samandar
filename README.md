@@ -15,43 +15,6 @@ I'm a **Frontend Engineer** at [ShahNur Software](https://www.linkedin.com/in/sa
 
 I aim to deliver seamless digital experiences that **delight users** and exceed expectations. 💡
 
----
-
-## 🌟 Featured Projects
-
-Here are some of my favorite projects:  
-
-### ⚡️ **[SaaS Landing Page](https://saas-landing-pageeee.netlify.app/)**
-> **Tech Stack:** Next.js, TailwindCSS, shadcn/ui, Framer Motion  
-> A modern, SEO-optimized landing page built for SaaS startups. Fully responsive and modular with sections like pricing, testimonials, FAQ, and CTA. Perfect for developers launching products quickly.
-
-### 🍯 **[Honey Landing Page](https://honey-tawny-psi.vercel.app/)**
-> **Tech Stack:** Next.js, TailwindCSS  
-> A modern, aesthetically pleasing landing page for honey lovers. This is a frontend-only demo without backend integration.
-
-### 🧮 **[BMI Calculator](https://github.com/Abdumannonov-Samandar/bmi-calculator)**  
-> **Tech Stack:** HTML, CSS, JavaScript  
-> Calculate your BMI with an interactive, minimalist design.
-
-### ☁️ **[Weather Forecast](https://sparkly-hummingbird-52880e.netlify.app/)**  
-> **Tech Stack:** React, API Integration, TailwindCSS  
-> Get real-time weather updates with an intuitive interface.
-
-### 🍔 **[Meals App](https://66df7e46f4514fb204783faf--vocal-belekoy-e35998.netlify.app/)**  
-> **Tech Stack:** React, API, Firebase  
-> A feature-rich food ordering app with search and filter options.
-
-### 🎥 **[MoviesTMD](https://movie-tmd.vercel.app/)**  
-> **Tech Stack:** React, API Integration, CSS  
-> Discover trending movies with smooth navigation and filters.
-
-### 🎭 **[Currency Exchange](https://currency-exchange-lilac.vercel.app/)**
-> **Tech Stack:** Next.js, API Integration, Tailwind CSS  
-> Real-time currency conversion with a sleek UI and responsive design.
-
----
-
-
 ## 🛠️ Tech Stack  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
