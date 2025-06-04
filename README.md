@@ -15,15 +15,6 @@ I'm a **Frontend Engineer** at [ShahNur Software](https://www.linkedin.com/in/sa
 
 I aim to deliver seamless digital experiences that **delight users** and exceed expectations. 💡
 
-## 🧩 Projects
-
-|  [**OsonDokon**](https://osondokon.uz) |  [**WordWonders**](https://www.wordwonders.uz/) |  [**Resume**](https://resume.udemere.uz/) |  [**Career**](https://career.udemere.uz/) |
-|--------------------------------------------------|--------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|
-
-
-
-
-
 ## 🛠️ Tech Stack  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
